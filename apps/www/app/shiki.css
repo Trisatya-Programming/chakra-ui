@@ -38,7 +38,7 @@ code .diff.remove {
 
 code .diff.remove:before {
   content: "-";
-  color: #f14158;
+  color: #ffff;
 }
 
 code .diff.add {
